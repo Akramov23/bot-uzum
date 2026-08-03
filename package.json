@@ -15,6 +15,5 @@
     "node-telegram-bot-api": "^1.2.0",
     "telegraf": "^4.16.3"
   }
+}
 
-}
-}
